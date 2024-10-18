@@ -1,0 +1,12 @@
+body {
+    font-family: system-ui, sans-serif;
+}
+
+main {
+    width: 650px;
+    margin: auto;
+}
+
+h1,h2 {
+    font-weight: 700;
+}
