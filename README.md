@@ -1,5 +1,5 @@
 # odin-recipes
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fkosmik7.github.io%2Fodin-recipes&label=Live%20preview)](https://kosmik7.github.io/odin-recipes)
+[Live Demo](https://kosmik7.github.io/odin-recipes/)
 
 A very basic recipe website.\
-This is the first project of The Odin Project. 
+This is a project from the <em>HTML Foundations</em> course of <em>The Odin Project</em>.
